@@ -1,0 +1,36 @@
+{
+  "name": "jQuery-QueryBuilder-Loopback",
+  "version": "1.0.0",
+  "authors": [{
+    "name": "Fabien Franzen",
+    "email": "info@atelierfabien.be",
+    "homepage": "http://www.atelierfabien.be"
+  }],
+  "description": "Allows to export jQuery QueryBuilder rules as a Loopback statement",
+  "main": "query-builder-loopback.js",
+  "dependencies": {
+    "query-builder": "^2.0.0"
+  },
+  "keywords": [
+    "jquery",
+    "query",
+    "builder",
+    "filter",
+    "loopback"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mistic100/jQuery-QueryBuilder-Loopback",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mistic100/jQuery-QueryBuilder-Loopback.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src",
+    "tests",
+    "package.json",
+    "Gruntfile.js"
+  ]
+}
