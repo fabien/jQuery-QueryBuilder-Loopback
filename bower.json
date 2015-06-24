@@ -9,7 +9,7 @@
   "description": "Allows to export jQuery QueryBuilder rules as a Loopback statement",
   "main": "query-builder-loopback.js",
   "dependencies": {
-    "query-builder": "^2.0.0"
+    "jQuery-QueryBuilder": "^2.2.0"
   },
   "keywords": [
     "jquery",
@@ -19,10 +19,10 @@
     "loopback"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/mistic100/jQuery-QueryBuilder-Loopback",
+  "homepage": "https://github.com/fabien/jQuery-QueryBuilder-Loopback",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mistic100/jQuery-QueryBuilder-Loopback.git"
+    "url": "git://github.com/fabien/jQuery-QueryBuilder-Loopback.git"
   },
   "ignore": [
     "**/.*",
